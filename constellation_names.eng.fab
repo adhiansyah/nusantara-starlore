@@ -1,10 +1,13 @@
-001 "Wulanjarngirim"                _("Wulanjarngirim")
-002 "Waluku"                        _("Waluku")
+001 "Wulanjarngirim"                _("Pelayan Katering")
+002 "Waluku"                        _("Bajak")
 003 "Likasan"                       _("Likasan")
 004 "Banyak Angrem"                 _("Angsa yang Mengeram")
 005 "Gubug Penceng"                 _("Bintang Layang-Layang")
-006 "Mahisa/M'resaba/Marsoba"				_("Banteng")
+006 "Mahisa/M'resaba/Marsoba"       _("Banteng")
 007 "Bintang Biduk"                 _("Bintang Biduk")
-008 "Gugus Kartika"                 _("Tujuh Putri Bersaudara")
+008 "Gugus Kartika"                 _("Tujuh Putri Bersaudara")pl=y
 009 "Wedhus Pedra"                  _("Kambing")
 010 "Yuyu/Wuluh"                    _("Kepiting")
+011 "Bintang Kipas"                 _("Bintang Tujuh")
+012 "Bintang Prima"                 _("Bintang Tiga")
+013
