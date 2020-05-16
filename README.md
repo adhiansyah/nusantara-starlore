@@ -1,5 +1,10 @@
 # Nusantara Starlore
-Sebuah paket budaya langit Nusantara untuk Stellarium. Tidak menggunakan mekanisme skrip atau plugin untuk memasangnya. Dulu [Kafe Astronomi pernah merilis plug-in budaya langit Jawa](http://kafeastronomi.com/kafe-astronomi-rilis-plugin-starlore-jawa-untuk-stellarium.html) di tahun 2014, tapi alasan saya membuat paket ini adalah untuk menghindari mekanisme plug-in, dan memperluas kebudayaan-kebudayaan yang ada di Nusantara (Indonesia). Seharusnya paket ini dapat bekerja di berbagai versi Stellarium. Kalau ada _bug_ atau kesalahan mohon dilaporkan ya!
+Sebuah paket budaya langit Nusantara untuk Stellarium. Tidak menggunakan mekanisme skrip atau plugin untuk memasangnya. Dulu [Kafe Astronomi pernah merilis plug-in budaya langit Jawa](http://kafeastronomi.com/kafe-astronomi-rilis-plugin-starlore-jawa-untuk-stellarium.html). Terinspirasi dari plugin tersebut, saya mulai membaca panduan pengguna Stellarium hingga membaca berkas-berkas setiap budaya langit yang terdapat di direktori <code>skycultures</code>.
+
+Akhirnya saya mulai membuat dan mengelola repositori ini sampai sekarang, dengan batasan:
+* Menghindari mekanisme _plug in_ (jadi harus pakai jari jemari untuk memasangnya)
+* Memperluas kebudayaan langit yang ada di Indonesia/Nusantara
+* Membuka sumber kode untuk semua yang ingin tertarik pada paket ini
 
 # Informasi lebih lanjut
 Untuk informasi lebih lanjut (termasuk panduan pemasangan), silahkan buka [wiki ini](https://github.com/adhiansyah/nusantara-starlore/wiki). Anda akan lebih banyak menemukan informasi mengenai Nusantara Starlore
